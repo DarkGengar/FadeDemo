@@ -1,0 +1,4 @@
+#
+# 256x256@4, palette size 16, no compression, tile reduced
+#
+-gB4 -gT000000 -pn16 -m -mRtpf

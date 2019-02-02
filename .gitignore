@@ -1,0 +1,9 @@
+app
+bld
+lib
+altern_make
+module.mk
+gfx.h
+test
+*.ase
+*.gif
